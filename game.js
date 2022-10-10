@@ -390,7 +390,7 @@ Ship = function () {
                                0, 11,
                                3,  6]);
 
-  this.delayBeforeBullet = 0;
+  this.delayBeforeBullet = 1;
 
   this.postMove = this.wrapPostMove;
 
